@@ -75,6 +75,9 @@ Project Structure
 
 event-booking-system/
 ├── index.html          # Main HTML file
+
 ├── styles.css          # CSS styling
+
 ├── script.js           # JavaScript functionality
+
 └── README.md           # Project documentation
