@@ -52,3 +52,29 @@ Interactive Elements
 3.Form validation with instant feedback
 
 Responsive Design
+
+1.Fully responsive layout that adapts to different screen sizes
+
+2.Mobile-friendly navigation and form elements
+
+3.Optimized calendar view for small screens
+
+Technologies Used
+
+1.HTML5: Semantic markup for structure
+
+2.CSS3: Modern styling with flexbox and grid
+
+3.JavaScript: Vanilla JS for interactivity and validation
+
+4.Font Awesome: Icon library for improved UI
+
+5.Responsive Design: Media queries for device adaptation
+
+Project Structure
+
+event-booking-system/
+├── index.html          # Main HTML file
+├── styles.css          # CSS styling
+├── script.js           # JavaScript functionality
+└── README.md           # Project documentation
