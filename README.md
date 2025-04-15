@@ -15,40 +15,40 @@ The system features a clean, modern design that works across all device sizes (m
 
 Features
 
-1.Calendar Integration
+Calendar Integration
 
-2.Interactive calendar for date selection
+1.Interactive calendar for date selection
 
-3.Visual indicators for available and booked dates
+2.Visual indicators for available and booked dates
 
-4.Month navigation with smooth transitions
+3.Month navigation with smooth transitions
 
-Current date highlighting
+4.Current date highlighting
 
 Booking Form
 
-User-friendly form with proper validation
+1.User-friendly form with proper validation
 
-Fields for name, email, phone, event type, and attendees
+2.Fields for name, email, phone, event type, and attendees
 
-Real-time validation feedback
+3.Real-time validation feedback
 
-Form submission with confirmation
+4.Form submission with confirmation
 
 Event Listing
 
-Display of upcoming events with date, time, and location
+1.Display of upcoming events with date, time, and location
 
-"Book Now" buttons for quick access to booking form
+2."Book Now" buttons for quick access to booking form
 
-Visual cards with hover effects
+3.Visual cards with hover effects
 
 Interactive Elements
 
-Modal dialogs for booking summary and confirmation
+1.Modal dialogs for booking summary and confirmation
 
-Smooth animations and transitions
+2.mooth animations and transitions
 
-Form validation with instant feedback
+3.Form validation with instant feedback
 
 Responsive Design
