@@ -74,6 +74,7 @@ Technologies Used
 Project Structure
 
 event-booking-system/
+
 ├── index.html          # Main HTML file
 
 ├── styles.css          # CSS styling
